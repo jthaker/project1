@@ -1,4 +1,4 @@
-#Tuition and Enrollment Project
+# Tuition and Enrollment Project
 
 Project goal was to observe trends in student tuition, enrollment and aid available for students. To achieve this, we have looked at data for the following fields starting from 1973 all the way up to 2017:
 
